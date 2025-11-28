@@ -292,12 +292,6 @@ Possible enhancements include:
 
 ---
 
-## 📄 **License**
-
-MIT License — free for personal and educational use.
-
----
-
 ## 🙌 **Author**
 
 **Rishabh Singh**
